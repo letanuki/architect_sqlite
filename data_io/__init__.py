@@ -1,0 +1,1 @@
+from .architect_xml import load_from_architect_file
